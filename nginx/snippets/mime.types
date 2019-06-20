@@ -1,0 +1,5 @@
+types {
+    image/xvg+xml                         svg;
+    text/css                              css;
+    application/x-javascript              js;
+}
